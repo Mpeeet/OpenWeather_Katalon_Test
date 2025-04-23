@@ -1,18 +1,27 @@
-.gradle
-
-bin
-
-Reports
-
-Libs
-
-output
-
-!output/.gitkeep
-build
-
-.classpath
-
+# Katalon Studio Generated Files and Folders
+/bin/
+/Libs/
+/Reports/
+/.settings/
+/.classpath
 .project
 
-.cache
+# Test execution temp files
+/tmp/
+/.buildpath
+/test-output/
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# IDEs
+.vscode/
+.idea/
+*.iml
+
+# User-specific settings
+.settings/internal.*
