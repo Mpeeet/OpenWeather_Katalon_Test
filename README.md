@@ -1,30 +1,26 @@
-🌦 OpenWeatherMap API Automation Test with Katalon
-This project contains API automation testing for OpenWeatherMap using Katalon Studio.
+# 🌤 OpenWeatherMap API Automation Test
 
-✅ Features
-5-Day Weather Forecast for Jakarta
+This project automates the testing of OpenWeatherMap API using **Katalon Studio**.
 
-Current Air Pollution data for Jakarta
+## 📌 Scenarios Covered
+- ✅ 5 Day Weather Forecast for **Jakarta Selatan**
+- ✅ Current Air Pollution data of **Jakarta Selatan**
 
-🛠 Tools
-Katalon Studio
+## 🧰 Tools Used
+- [Katalon Studio](https://katalon.com/)
+- OpenWeatherMap API
 
-OpenWeatherMap API
+## 🚀 How to Run
+1. Clone this repo
+2. Open in Katalon Studio
+3. Replace `YOUR_API_KEY` in test objects with your OpenWeatherMap API key
+4. Run the Test Cases
 
-🚀 How to Run
-Clone this repository.
-
-Open the project in Katalon Studio.
-
-Replace YOUR_API_KEY with your actual OpenWeatherMap API key.
-
-Run the test cases from the Test Explorer.
-
-📈 Test Report
-After running the test cases, reports will be available in the Reports/ folder.
+## 📈 Test Reports
+- Reports are auto-generated in the `Reports/` folder
+- You can view execution details via `Katalon Studio > Test Explorer`
 
 ## 📁 Project Structure
-- `Object Repository/`: API request definitions.
-- `Test Cases/`: test scripts.
-- `Reports/`: test execution reports.
-
+- `Object Repository/`: Contains API request definitions
+- `Test Cases/`: Contains test scripts and assertions
+- `Reports/`: Test results
