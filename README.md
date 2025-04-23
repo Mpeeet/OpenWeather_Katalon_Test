@@ -4,8 +4,8 @@ Proyek ini berisi pengujian otomatisasi API OpenWeatherMap menggunakan Katalon S
 
 ## ✅ Fitur
 
-- 5-Day Weather Forecast untuk Jakarta Selatan
-- Current Air Pollution untuk Jakarta Selatan
+- 5-Day Weather Forecast untuk Jakarta
+- Current Air Pollution untuk Jakarta
 
 ## 🛠 Tools
 
