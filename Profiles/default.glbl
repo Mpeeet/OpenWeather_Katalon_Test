@@ -19,4 +19,9 @@
       <initValue>0</initValue>
       <name>globalId</name>
    </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'6fa7d6bdfcc8343bed0b856d351be9c1'</initValue>
+      <name>APIkey</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>
