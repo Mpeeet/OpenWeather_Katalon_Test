@@ -25,6 +25,6 @@ Laporan hasil test dapat ditemukan di folder `Reports/` setelah menjalankan test
 
 ## 📁 Struktur Proyek
 
-- `Object Repository/`: Berisi definisi request API.
-- `Test Cases/`: Berisi skrip pengujian.
-- `Reports/`: Berisi laporan hasil pengujian.
+- `Object Repository/`: API request definitions.
+- `Test Cases/`: test scripts.
+- `Reports/`: test execution reports.
